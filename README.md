@@ -31,6 +31,6 @@ Computer vision system developed as a Computer Engineering thesis project that:
 - NumPy 1.21+ (`pip install numpy`)
 
 ```bash
-git clone https://github.com/your-username/ColorIdentifier.git
+git clone https://github.com/cuyo-pixel/ColorIdentifierPython.git
 cd ColorIdentifier
 python color_identifier.py
